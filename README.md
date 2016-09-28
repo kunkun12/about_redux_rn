@@ -41,4 +41,4 @@
 
 
 
- ### [more about rn](https://github.com/reactnativecn/react-native-guide) 
+ ## [更多RN资料>>>](https://github.com/reactnativecn/react-native-guide) 
