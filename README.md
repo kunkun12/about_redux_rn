@@ -30,7 +30,7 @@
 - [Redux 初步尝试](https://segmentfault.com/a/1190000003482243?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 
 ## react native +redux 相关开源项目
-- 官方标准模板 f8app <https://github.com/fbsamples/f8app>
+- 官方项目f8app <https://github.com/fbsamples/f8app>
 - react-native-nba-app <https://github.com/wwayne/react-native-nba-app>
 - CNode-React-Native <https://github.com/SFantasy/CNode-React-Native>
 - react-weather: A simple weather app built with React Native and Realm <https://github.com/stage88/react-weather>
