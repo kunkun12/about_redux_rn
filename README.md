@@ -38,3 +38,7 @@
 - ReactNative_Shopping 电商类Reac Native App <https://github.com/JasonStu/ReactNative_Shopping>
 - RN-BiZhi <https://github.com/JasonStu/RN-BiZhi>
 - react native redux FeInn 从零到1让你学会搭建一个APP <https://github.com/febobo/react-native-redux-FeInn>
+
+
+
+ ### [more about rn](https://github.com/reactnativecn/react-native-guide) 
