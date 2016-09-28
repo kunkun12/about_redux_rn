@@ -32,11 +32,11 @@
 ## react native +redux 相关开源项目
 - 官方标准模板 f8app <https://github.com/fbsamples/f8app>
 - react-native-nba-app <https://github.com/wwayne/react-native-nba-app>
+- CNode-React-Native <https://github.com/SFantasy/CNode-React-Native>
 - react-weather: A simple weather app built with React Native and Realm <https://github.com/stage88/react-weather>
 - iReading <https://github.com/attentiveness/reading>
 - React Native开发嘎嘎商城客户端 <https://github.com/jiangqqlmj/GaGaMall>
 - ReactNative_Shopping 电商类Reac Native App <https://github.com/JasonStu/ReactNative_Shopping>
-- RN-BiZhi <https://github.com/JasonStu/RN-BiZhi>
 - react native redux FeInn 从零到1让你学会搭建一个APP <https://github.com/febobo/react-native-redux-FeInn>
 
 
