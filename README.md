@@ -1,4 +1,4 @@
-## redux/react native + redux 相关资料  
+## redux相关文档/react native相关开源项目 
 
 ### 项目地址 <https://github.com/reactjs/redux>
 
